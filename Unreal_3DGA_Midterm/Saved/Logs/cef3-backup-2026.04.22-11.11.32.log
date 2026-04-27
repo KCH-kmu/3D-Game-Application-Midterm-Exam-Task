@@ -1,0 +1,11 @@
+[25556:32728:0422/181708.399:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[25556:18192:0422/181708.457:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[25556:32728:0422/181708.465:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[35004:20964:0422/181712.530:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-A7B50A36A0417AFA864127ED9450DC1B will be ignored
+[27008:39648:0422/194839.186:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[25556:4008:0422/194839.191:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[25556:4008:0422/194839.518:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[27008:39648:0422/194839.531:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[25556:32728:0422/200738.342:ERROR:device_event_log_impl.cc(196)] [20:07:38.104] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+[25556:32728:0422/200749.770:ERROR:device_event_log_impl.cc(196)] [20:07:49.424] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+[25556:32728:0422/201132.667:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
