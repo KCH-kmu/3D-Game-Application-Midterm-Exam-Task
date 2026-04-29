@@ -1,0 +1,9 @@
+[57168:56840:0429/202823.534:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[57168:32980:0429/202823.781:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[57168:56840:0429/202823.958:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[55188:57532:0429/202833.728:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-DB113A426D704CF94A435EA45A5A0D3E will be ignored
+[57168:47236:0429/203033.797:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[50744:53180:0429/203033.823:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[57168:32980:0429/203033.895:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[50744:53180:0429/203033.923:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[57168:56840:0429/210052.726:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
