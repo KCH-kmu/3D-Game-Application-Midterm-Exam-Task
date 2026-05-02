@@ -1,9 +1,2 @@
-2026/04/30-21:38:39.552 6c98 Reusing MANIFEST C:\Users\green\OneDrive\Desktop\3D-Game-Application-Midterm-Exam-Task\V2_3DGA_Midterm\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/04/30-21:38:39.558 6c98 Recovering log #3
-2026/04/30-21:38:39.561 6c98 Reusing old log C:\Users\green\OneDrive\Desktop\3D-Game-Application-Midterm-Exam-Task\V2_3DGA_Midterm\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
-2026/04/30-23:21:39.978 6c98 Level-0 table #5: started
-2026/04/30-23:21:39.988 6c98 Level-0 table #5: 81271 bytes OK
-2026/04/30-23:21:39.989 6c98 Delete type=0 #3
-2026/04/30-23:24:15.927 662c Level-0 table #7: started
-2026/04/30-23:24:15.932 662c Level-0 table #7: 70894 bytes OK
-2026/04/30-23:24:15.934 662c Delete type=0 #4
+2026/05/02-18:54:30.681 42f0 Creating DB D:\Unreal Github\3D-Game-Application-Midterm-Exam-Task\V2_3DGA_Midterm\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
+2026/05/02-18:54:31.574 42f0 Reusing MANIFEST D:\Unreal Github\3D-Game-Application-Midterm-Exam-Task\V2_3DGA_Midterm\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
